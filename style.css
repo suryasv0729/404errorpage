@@ -25,7 +25,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url("./assets/background_img.png");
+  background-image: url("./assets/background_img_1.png");
   background-size: cover;
   background-position: center;
   background-color: rgba(255, 255, 255, 0.9);
